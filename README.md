@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">₊˚⊹♡ - ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ｡ ₊°༺❤︎༻°₊ ｡ ⊹₊˚‧  ︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹  - ₊˚⊹♡ -</h2>
+<h2 data-importer="text" align="center">- ‧˚ ₊⊹ ｡ ₊°༺❤︎༻°₊ ｡ ⊹₊˚‧ -</h2>
 
 ###
 
