@@ -1,4 +1,8 @@
-<h2 data-importer="text" align="left">₊˚⊹♡ - ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ｡ ₊°༺❤︎༻°₊ ｡ ⊹₊˚‧  ︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹  - ₊˚⊹♡ -<br>Hi! ⭑.ᐟ My name is Siwar ⋆˚࿔ and I'm a Data Scientist, from PALESTINE!! ♡</h2>
+<h2 data-importer="text" align="left">₊˚⊹♡ - ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹ ｡ ₊°༺❤︎༻°₊ ｡ ⊹₊˚‧  ︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹  - ₊˚⊹♡ -</h2>
+
+###
+
+<h3 data-importer="text" align="left">Hi! ⭑.ᐟ My name is Siwar ⋆˚࿔ and I'm a Data Scientist, from PALESTINE!! ♡</h3>
 
 ###
 
@@ -73,9 +77,5 @@
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/swirita/swirita/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-
 
 ###
